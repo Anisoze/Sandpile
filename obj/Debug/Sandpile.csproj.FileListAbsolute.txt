@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\bin\Debug\Sandpile.exe.config
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\bin\Debug\Sandpile.exe
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\bin\Debug\Sandpile.pdb
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\obj\Debug\Sandpile.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\obj\Debug\Sandpile.Form1.resources
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\obj\Debug\Sandpile.Properties.Resources.resources
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\obj\Debug\Sandpile.csproj.GenerateResource.cache
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\obj\Debug\Sandpile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\obj\Debug\Sandpile.exe
+C:\Users\user\source\repos\3 семестр\АиСД\Sandpile\obj\Debug\Sandpile.pdb
